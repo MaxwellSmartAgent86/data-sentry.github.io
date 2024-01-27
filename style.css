@@ -1,0 +1,172 @@
+.a-color{
+    background-color: rgba(0,0,0,0.6);    
+}
+
+.shifting-it{
+   margin-right: 5%;
+}
+
+#title-style{
+    color: rgb(255,127,80);
+    /* color:  #830300; */
+    margin-left: 10%;
+    font-family: "Ubuntu-Bold 700";
+    font-size: xx-large;    
+}
+
+.nav-item{
+    padding: 0 20px;
+}
+
+.nav-link{
+    color: rgb(255,255,255);
+}
+
+.navbar-toggler{
+    margin-right: 20px;
+}
+
+.services-class{
+    padding: 2% 15%
+}
+
+.background-video{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+	background: black;
+    z-index: 0;
+}
+
+.background-video video{
+	min-height: 100%;
+	min-width: 100%;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+
+}
+
+
+
+.icons{
+    padding: 10%;
+}
+
+.service-items{
+	margin: 0;
+}
+
+h3{
+font-family: "Ubuntu-Bold 700";
+color: rgb(255,127,80);
+font-size: x-large;
+}
+
+h2{
+    color: white;
+}
+
+p{
+	font-size: 0.75rem;
+}
+
+body{
+	background:  black;
+}
+
+.service-page{
+	border-top: 0%;
+    position: absolute;
+    margin-top: 15%;
+	margin-bottom: 15%;
+    background-color: rgba(0,0,0,0.7);
+    color: #f1f1f1;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+} 
+
+.contact-class{
+    border: 0%;
+    position: absolute;
+    margin-top: 25%;
+	margin-bottom: 10%;
+    background-color: rgba(0,0,0,0.7);
+    color: #f1f1f1;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+.welome{
+    position: absolute;
+    margin-top: 20%;
+	margin-bottom: 10%;
+    color: #f1f1f1;
+    font-family:  "Montserrat";
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    left: 25%;
+    width: 50%;
+    z-index: 1;
+}
+
+.theabout{
+    position: absolute;
+    margin-top: 10%;
+	margin-bottom: 10%;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+
+#cemail{
+    color: rgb(255,127,80);
+}
+
+#cemail:link{
+    color: rgb(255,127,80);
+    text-decoration: underline;
+}
+
+#ceamil:hover{
+    text-decoration: underline;
+}
+
+#cemail:visited{
+    text-decoration: none;
+}
+
+.gitouch_icon{
+    padding-right: 2%;
+}
+
+.page_constrain{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.middle_black{
+    font-size: 1.5rem;
+}
+
+.home-filling{
+    font-size: 1rem;
+}
+
+img{
+    padding: 10%;
+}
+
+.abouttext{
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+    z-index: 1;
+}
